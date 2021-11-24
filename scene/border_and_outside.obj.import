@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/border_and_outside.obj-f76f6fe1be3e29d3c1367798dc5e9877.mesh"
+
+[deps]
+
+files=[ "res://.import/border_and_outside.obj-f76f6fe1be3e29d3c1367798dc5e9877.mesh" ]
+
+source_file="res://scene/border_and_outside.obj"
+dest_files=[ "res://.import/border_and_outside.obj-f76f6fe1be3e29d3c1367798dc5e9877.mesh", "res://.import/border_and_outside.obj-f76f6fe1be3e29d3c1367798dc5e9877.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/level.obj-668dd37c4594d19390affe31aaa4c724.mesh"
+
+[deps]
+
+files=[ "res://.import/level.obj-668dd37c4594d19390affe31aaa4c724.mesh" ]
+
+source_file="res://scene/level.obj"
+dest_files=[ "res://.import/level.obj-668dd37c4594d19390affe31aaa4c724.mesh", "res://.import/level.obj-668dd37c4594d19390affe31aaa4c724.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
